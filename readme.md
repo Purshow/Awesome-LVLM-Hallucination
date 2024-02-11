@@ -1,4 +1,5 @@
 # Awesome LVLM Hallucination
+
 ### Nice survey:**[A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)
 
 ### Hallucination Benchmarks:
@@ -29,7 +30,7 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.14525)
   [![Star](https://img.shields.io/github/stars/llava-rlhf/LLaVA-RLHF.svg?style=social&label=Star)](https://github.com/llava-rlhf/LLaVA-RLHF)
 
-+ **POPE** [Evaluating Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2305.10355) (EMNLP 2023)（object hallucination最常用的benchamark）
++ **POPE** [Evaluating Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2305.10355) (EMNLP 2023)（object hallucination最常用的benchamark）**强力推荐**
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10355)
   [![Star](https://img.shields.io/github/stars/AoiDragon/POPE.svg?style=social&label=Star)](https://github.com/AoiDragon/POPE)
 
@@ -61,18 +62,16 @@
    - self-feedback, according to self-generate natural language feedback to self-revise response
 7. **HalluciDoctor**: Mitigating Hallucinatory Toxicity in Visual Instruction Data， (Yu et al.)
    - [![Static Badge](https://img.shields.io/badge/2311.13614-red?logo=arxiv)](https://arxiv.org/abs/2311.13614) [![](https://img.shields.io/badge/HalluciDoctor-black?logo=github)](https://github.com/Yuqifan1117/HalluciDoctor)
-8. **VCD**: Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding, (Leng et al.)
+8. **VCD**: Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding, (Leng et al.)**强力推荐**
    - [![Static Badge](https://img.shields.io/badge/2311.16922-red?logo=arxiv)](https://arxiv.org/abs/2311.16922) [![](https://img.shields.io/badge/VCD-black?logo=github)](https://github.com/DAMO-NLP-SG/VCD)
-   - train-free
+   - constractive decoding
 9. **HA-DPO**: Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization
    - [![Static Badge](https://img.shields.io/badge/2311.16839-red?logo=arxiv)](https://arxiv.org/abs/2311.16839) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
 10. Mitigating Hallucination in Visual Language Models with Visual Supervision, (Chen et al.)
     - [![Static Badge](https://img.shields.io/badge/2311.16479-red?logo=arxiv)](https://arxiv.org/abs/2311.16479) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
-    - construct a fine-grained vision instruction dataset, **RAI-30k**. It contains multi-modal conversations focusing on specific vision relations in an image.
-    - propose a new benchmark: **RAHBench**
-    - incorporating SAM in the vision instruction tuning process'
-11. **OPERA**: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation, (Huang et al.)
+11. **OPERA**: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation, (Huang et al.)**强力推荐**
     - [![Static Badge](https://img.shields.io/badge/2311.17911-red?logo=arxiv)](https://arxiv.org/abs/2311.17911) [![](https://img.shields.io/badge/OPERA-black?logo=github)](https://github.com/shikiw/OPERA)
+    - Improve beam search
 12. **FOHE**: Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites, (Wang et al.)
     - [![Static Badge](https://img.shields.io/badge/2312.01701-red?logo=arxiv)](https://arxiv.org/abs/2312.01701) [![](https://img.shields.io/badge/FOHE-black?logo=github)](https://github.com/Anonymousanoy/FOHE)
     - use ChatGPT to post-hoc correction
@@ -98,3 +97,9 @@
 1. Hallucinations of Large Language Models through Induced Hallucinations
 2. Contrastive Decoding: Open-ended Text Generation as Optimization 
 3. Trusting Your Evidence: Hallucinate Less with Context-aware Decoding
+
+## Acknowledgments
+
+I would like to extend my sincere gratitude to the [awesome-Large-MultiModal-Hallucination](https://github.com/xieyuquanxx/awesome-Large-MultiModal-Hallucination) project and its contributors. This project has been a foundational element in the development of my work, providing invaluable resources and insights into Large MultiModal Hallucination techniques. The comprehensive collection and curation by [xieyuquanxx](https://github.com/xieyuquanxx) and the team have significantly propelled my understanding and implementation strategies. I am deeply appreciative of their efforts in consolidating such a rich repository of knowledge and making it accessible to the wider community. Their work has not only inspired but also enabled me to further my research and development in this fascinating field.
+I am committed to respecting the original intentions and guidelines of the awesome-Large-MultiModal-Hallucination project. This acknowledgment serves as a token of my gratitude and recognition of the substantial impact their work has had on my project. Thank you for your pioneering contributions and for sharing your expertise with the world.
+
