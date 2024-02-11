@@ -1,6 +1,6 @@
 # Awesome LVLM Hallucination
 
-### Nice survey:[A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)
+### A nice survey:[A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)
 
 ### Hallucination Benchmarks:
 
@@ -93,12 +93,11 @@
 - A Comprehensive Survey of Hallucination Mitigation Techniques in LargeLanguage Models 
 - A Survey of Hallucination in “Large” Foundation Models 
 ### Interesting topic: 
-## Contrastive decoding： 
+## Contrastive decoding： (vcd同款方法)
 1. Hallucinations of Large Language Models through Induced Hallucinations
 2. Contrastive Decoding: Open-ended Text Generation as Optimization 
 3. Trusting Your Evidence: Hallucinate Less with Context-aware Decoding
 
-## Acknowledgments
 ## Acknowledgments
 
 I am immensely grateful to two pivotal projects that have significantly influenced the development of my work: [awesome-Large-MultiModal-Hallucination](https://github.com/xieyuquanxx/awesome-Large-MultiModal-Hallucination) and [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination). The dedication and effort put forth by the contributors of these projects, particularly [xieyuquanxx](https://github.com/xieyuquanxx) and the team at Show Lab, have provided an indispensable resource for researchers and developers alike.
