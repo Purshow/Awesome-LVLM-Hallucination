@@ -87,14 +87,14 @@
 16. **Silkie**: Preference Distillation for Large Visual Language Models, (Li et al.)
     - [![Static Badge](https://img.shields.io/badge/2312.10665-red?logo=arxiv)](https://arxiv.org/abs/2312.10665) [![](https://img.shields.io/badge/Silkie-black?logo=github)](https://github.com/vlf-silkie/VLFeedback)
 
-###他山之玉（LLM's hallucination）：
-##survey:
+### 他山之玉（LLM's hallucination）：
+## survey:
 1.[Siren’s Song in the AI Ocean:A Survey on Hallucination in Large Language Models]
 2.[A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions]
 3.[A Comprehensive Survey of Hallucination Mitigation Techniques in LargeLanguage Models]
 4.[A Survey of Hallucination in “Large” Foundation Models]
-##interesting topic:
-#Contrastive decoding：
+## interesting topic:
+# Contrastive decoding：
 1.[Alleviating Hallucinations of Large Language Models through Induced Hallucinations]
 2.[Contrastive Decoding: Open-ended Text Generation as Optimization]
 3.[Trusting Your Evidence: Hallucinate Less with Context-aware Decoding]
