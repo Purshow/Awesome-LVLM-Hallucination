@@ -89,12 +89,12 @@
 
 ### 他山之玉（LLM's hallucination）：
 ## survey:
-1.Siren’s Song in the AI Ocean:A Survey on Hallucination in Large Language Models
-2.A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions
-3.A Comprehensive Survey of Hallucination Mitigation Techniques in LargeLanguage Models
-4.A Survey of Hallucination in “Large” Foundation Models
-### Interesting topic:
-## Contrastive decoding：
-1.[Alleviating Hallucinations of Large Language Models through Induced Hallucinations]
-2.[Contrastive Decoding: Open-ended Text Generation as Optimization]
-3.[Trusting Your Evidence: Hallucinate Less with Context-aware Decoding]
+- Song in the AI Ocean:A Survey on Hallucination in Large Language Models 
+- A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions 
+- A Comprehensive Survey of Hallucination Mitigation Techniques in LargeLanguage Models 
+- A Survey of Hallucination in “Large” Foundation Models 
+### Interesting topic: 
+## Contrastive decoding： 
+1. Hallucinations of Large Language Models through Induced Hallucinations
+2. Contrastive Decoding: Open-ended Text Generation as Optimization 
+3. Trusting Your Evidence: Hallucinate Less with Context-aware Decoding
