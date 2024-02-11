@@ -1,6 +1,6 @@
 # Awesome LVLM Hallucination
 
-### Nice survey:**[A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)
+### Nice survey:[A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)
 
 ### Hallucination Benchmarks:
 
