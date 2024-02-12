@@ -88,7 +88,7 @@
 
 ### 他山之玉（LLM's hallucination）：
 ## survey:
-- Song in the AI Ocean:A Survey on Hallucination in Large Language Models 
+- Song in the AI Ocean:A Survey on Hallucination in Large Language Models https://github.com/HillZhang1999/llm-hallucination-survey
 - A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions 
 - A Comprehensive Survey of Hallucination Mitigation Techniques in LargeLanguage Models 
 - A Survey of Hallucination in “Large” Foundation Models 
