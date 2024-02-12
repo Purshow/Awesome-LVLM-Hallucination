@@ -97,6 +97,7 @@
 1. Hallucinations of Large Language Models through Induced Hallucinations
 2. Contrastive Decoding: Open-ended Text Generation as Optimization 
 3. Trusting Your Evidence: Hallucinate Less with Context-aware Decoding
+4.SH2: Self-Highlighted Hesitation Helps You Decode More Truthfully
 
 ## Acknowledgments
 
