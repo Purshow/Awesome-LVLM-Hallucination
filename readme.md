@@ -94,10 +94,10 @@
 - A Survey of Hallucination in “Large” Foundation Models 
 ### Interesting topic: 
 ## Contrastive decoding： (vcd同款方法)
-1. Hallucinations of Large Language Models through Induced Hallucinations
+1. Hallucinations of Large Language Models through Induced Halluctions
 2. Contrastive Decoding: Open-ended Text Generation as Optimization 
 3. Trusting Your Evidence: Hallucinate Less with Context-aware Decoding
-4.SH2: Self-Highlighted Hesitation Helps You Decode More Truthfully
+4. SH2: Self-Highlighted Hesitation Helps You Decode More Truthfully
 
 ## Acknowledgments
 
