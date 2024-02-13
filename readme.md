@@ -85,7 +85,8 @@
     - [![Static Badge](https://img.shields.io/badge/2312.06968-red?logo=arxiv)](https://arxiv.org/abs/2312.06968) ![Static Badge](https://img.shields.io/badge/not_release-black?logo=github)
 16. **Silkie**: Preference Distillation for Large Visual Language Models, (Li et al.)
     - [![Static Badge](https://img.shields.io/badge/2312.10665-red?logo=arxiv)](https://arxiv.org/abs/2312.10665) [![](https://img.shields.io/badge/Silkie-black?logo=github)](https://github.com/vlf-silkie/VLFeedback)
-
+17.  **HalluciDoctor**:HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data：用“反常规”的数据干掉假相关性
+    - [![Static Badge](https://img.shields.io/badge/2311.13614-red?logo=arxiv)]((https://arxiv.org/abs/2311.13614))
 ### 他山之玉（LLM's hallucination）：
 ## survey:
 - Song in the AI Ocean:A Survey on Hallucination in Large Language Models https://github.com/HillZhang1999/llm-hallucination-survey
