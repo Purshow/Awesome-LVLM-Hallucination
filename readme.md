@@ -37,7 +37,7 @@
 + **CHAIR** [Object Hallucination in Image Captioning](https://arxiv.org/abs/1809.02156) (EMNLP 2018)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1809.02156)
 
-### Mitigating（LVLM;s）
+### Mitigating（LVLM）
 
 1. **LRV-Instruction**: Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning, (Liu et al. ICLR2024)
    - [![Static Badge](https://img.shields.io/badge/2306.14565-red?logo=arxiv)](http://arxiv.org/abs/2306.14565)  [![](https://img.shields.io/badge/LRV--Instruction-black?logo=github)](https://github.com/FuxiaoLiu/LRV-Instruction)
@@ -87,6 +87,8 @@
     - [![Static Badge](https://img.shields.io/badge/2312.10665-red?logo=arxiv)](https://arxiv.org/abs/2312.10665) [![](https://img.shields.io/badge/Silkie-black?logo=github)](https://github.com/vlf-silkie/VLFeedback)
 17.  **HalluciDoctor**:HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data：用“反常规”的数据干掉假相关性
     - [![Static Badge](https://img.shields.io/badge/2311.13614-red?logo=arxiv)]((https://arxiv.org/abs/2311.13614))
+18. **MARINE**: Mitigating Object Hallucination in LargeVision-Language Models via Classifier-Free Guidance     
+    - [![Static Badge](https://img.shields.io/badge/2311.08680-red?logo=arxiv)](([https://arxiv.org/abs/2311.13614](https://arxiv.org/abs/2402.08680)))
 ### 他山之玉（LLM's hallucination）：
 ## survey:
 - Song in the AI Ocean:A Survey on Hallucination in Large Language Models https://github.com/HillZhang1999/llm-hallucination-survey
