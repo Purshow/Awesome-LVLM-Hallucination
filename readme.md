@@ -91,6 +91,9 @@
     - [![Static Badge](https://img.shields.io/badge/2311.08680-red?logo=arxiv)](([https://arxiv.org/abs/2311.08680](https://arxiv.org/abs/2402.08680)))
 19. **CIEM** ：CIEM: Contrastive Instruction Evaluation Method for Better Instruction Tuning
     - [![Static Badge](https://img.shields.io/badge/2311.02301-red?logo=arxiv)](([https://arxiv.org/abs/2311.02301](https://arxiv.org/abs/2402.02301)))
+20. **EFUF**: EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models
+    - [![Static Badge](https://img.shields.io/badge/2311.09801-red?logo=arxiv)](([https://arxiv.org/abs/2311.09801](https://arxiv.org/abs/2402.09801)))
+
 
 ### 他山之玉（LLM's hallucination）：
 ## survey:
