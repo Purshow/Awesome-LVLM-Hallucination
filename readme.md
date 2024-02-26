@@ -86,9 +86,9 @@
 16. **Silkie**: Preference Distillation for Large Visual Language Models, (Li et al.)
     - [![Static Badge](https://img.shields.io/badge/2312.10665-red?logo=arxiv)](https://arxiv.org/abs/2312.10665) [![](https://img.shields.io/badge/Silkie-black?logo=github)](https://github.com/vlf-silkie/VLFeedback)
 17.  **HalluciDoctor**:HalluciDoctor: Mitigating Hallucinatory Toxicity in Visual Instruction Data：用“反常规”的数据干掉假相关性
-    - [![Static Badge](https://img.shields.io/badge/2311.13614-red?logo=arxiv)]((https://arxiv.org/abs/2311.13614))
+    - [![Static Badge](https://img.shields.io/badge/2311.13614-red?logo=arxiv)](https://arxiv.org/abs/2311.13614)
 18. **MARINE**: Mitigating Object Hallucination in LargeVision-Language Models via Classifier-Free Guidance     
-    - [![Static Badge](https://img.shields.io/badge/2311.08680-red?logo=arxiv)](([https://arxiv.org/abs/2311.08680](https://arxiv.org/abs/2402.08680)))
+    - [![Static Badge](https://img.shields.io/badge/2311.08680-red?logo=arxiv)](https://arxiv.org/abs/2402.08680)
 19. **CIEM** ：CIEM: Contrastive Instruction Evaluation Method for Better Instruction Tuning
     - [![Static Badge](https://img.shields.io/badge/2311.02301-red?logo=arxiv)](([https://arxiv.org/abs/2311.02301](https://arxiv.org/abs/2402.02301)))
 20. **EFUF**: EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models
