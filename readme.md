@@ -93,7 +93,7 @@
     - [![Static Badge](https://img.shields.io/badge/2311.02301-red?logo=arxiv)](https://arxiv.org/abs/2402.02301)
 20. **EFUF**: EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models
     - [![Static Badge](https://img.shields.io/badge/2311.09801-red?logo=arxiv)](https://arxiv.org/abs/2402.09801)
-
+21. **SEEING IS BELIEVING**：MITIGATING HALLUCINATION IN LARGE VISION-LANGUAGE MODELS VIA CLIP-GUIDED DECODING
 
 ### 他山之玉（LLM's hallucination）：
 ## survey:
