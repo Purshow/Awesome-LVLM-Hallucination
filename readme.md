@@ -95,7 +95,8 @@
     - [![Static Badge](https://img.shields.io/badge/2311.09801-red?logo=arxiv)](https://arxiv.org/abs/2402.09801)
 21. **SEEING IS BELIEVING**：MITIGATING HALLUCINATION IN LARGE VISION-LANGUAGE MODELS VIA CLIP-GUIDED DECODING
     - [![Static Badge](https://img.shields.io/badge/2311.15300-red?logo=arxiv)](https://arxiv.org/abs/2402.15300)
-
+22. **Logical Closed Loop**： Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models
+    - [![Static Badge](https://img.shields.io/badge/2311.11622-red?logo=arxiv)](https://arxiv.org/abs/2402.11622)
 ### 他山之玉（LLM's hallucination）：
 ## survey:
 - Song in the AI Ocean:A Survey on Hallucination in Large Language Models https://github.com/HillZhang1999/llm-hallucination-survey
