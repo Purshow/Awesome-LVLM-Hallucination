@@ -97,9 +97,9 @@
     - [![Static Badge](https://img.shields.io/badge/2311.15300-red?logo=arxiv)](https://arxiv.org/abs/2402.15300)
 22. **Logical Closed Loop**： Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models
     - [![Static Badge](https://img.shields.io/badge/2402.11622-red?logo=arxiv)](https://arxiv.org/abs/2402.11622)
-23.Aligning Modalities in Vision Large Language Models via Preference Fine-tuning
+23.  Aligning Modalities in Vision Large Language Models via Preference Fine-tuning
     - [![Static Badge](https://img.shields.io/badge/2402.11411-red?logo=arxiv)](https://arxiv.org/abs/2402.11411)
-24.Hallucination Augmented Contrastive Learning for Multimodal Large Language Model
+24.  Hallucination Augmented Contrastive Learning for Multimodal Large Language Model
     - [![Static Badge](https://img.shields.io/badge/2312.06968-red?logo=arxiv)](https://arxiv.org/abs/2312.06968)
 
 ### 他山之玉（LLM's hallucination）：
