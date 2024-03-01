@@ -102,14 +102,15 @@
 24.  Hallucination Augmented Contrastive Learning for Multimodal Large Language Model
     - [![Static Badge](https://img.shields.io/badge/2312.06968-red?logo=arxiv)](https://arxiv.org/abs/2312.06968)
 
-### 他山之玉（LLM's hallucination）：
-## survey:
+# 他山之玉：
+## survey（LLM's hallucination）:
 - Song in the AI Ocean:A Survey on Hallucination in Large Language Models https://github.com/HillZhang1999/llm-hallucination-survey
 - A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions 
 - A Comprehensive Survey of Hallucination Mitigation Techniques in LargeLanguage Models 
-- A Survey of Hallucination in “Large” Foundation Models 
-### Interesting topic: 
-## Contrastive decoding： (vcd同款方法)
+- A Survey of Hallucination in “Large” Foundation Models
+
+## Interesting topic: 
+### Contrastive decoding： (vcd同款方法)
 1. Hallucinations of Large Language Models through Induced Halluctions
 2. Contrastive Decoding: Open-ended Text Generation as Optimization 
 3. Trusting Your Evidence: Hallucinate Less with Context-aware Decoding
@@ -118,8 +119,8 @@
 6. Discerning and Resolving Knowledge Conflicts through Adaptive Decoding with Contextual Information-Entropy Constraint
 7. ROSE Doesn’t Do That: Boosting the Safety of Instruction-Tuned Large Language Models with Reverse Prompt Contrastive Decoding
 8. Weak-to-Strong Jailbreaking on Large Language Models
-## Acknowledgments
 
+## Acknowledgments
 I am immensely grateful to two pivotal projects that have significantly influenced the development of my work: [awesome-Large-MultiModal-Hallucination](https://github.com/xieyuquanxx/awesome-Large-MultiModal-Hallucination) and [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination). The dedication and effort put forth by the contributors of these projects, particularly [xieyuquanxx](https://github.com/xieyuquanxx) and the team at Show Lab, have provided an indispensable resource for researchers and developers alike.
 The awesome-Large-MultiModal-Hallucination project has offered a comprehensive guide and a curated list of resources that have been instrumental in shaping my understanding of Large MultiModal Hallucination. Similarly, the Awesome-MLLM-Hallucination repository has been a treasure trove of knowledge, showcasing cutting-edge techniques and methodologies in the realm of Machine Learning and Large Model Hallucination.
 By sharing their expertise and compiling these resources, they have not only advanced the field but also fostered a spirit of collaboration and open knowledge. I am deeply appreciative of their contributions and am inspired by their commitment to the community. Their work serves as a foundation upon which I have built and expanded, and for that, I extend my heartfelt thanks.
