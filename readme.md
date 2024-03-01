@@ -101,6 +101,8 @@
     - [![Static Badge](https://img.shields.io/badge/2402.11411-red?logo=arxiv)](https://arxiv.org/abs/2402.11411)
 24.  Hallucination Augmented Contrastive Learning for Multimodal Large Language Model
     - [![Static Badge](https://img.shields.io/badge/2312.06968-red?logo=arxiv)](https://arxiv.org/abs/2312.06968)
+25.  **MOF**：Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs
+    - [![Static Badge](https://img.shields.io/badge/2401.06209-red?logo=arxiv)](https://arxiv.org/abs/2401.06209)
 
 # 他山之玉：
 ## survey（LLM's hallucination）:
