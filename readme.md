@@ -116,7 +116,8 @@
 4. SH2: Self-Highlighted Hesitation Helps You Decode More Truthfully
 5. DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models
 6. Discerning and Resolving Knowledge Conflicts through Adaptive Decoding with Contextual Information-Entropy Constraint
-
+7. ROSE Doesn’t Do That: Boosting the Safety of Instruction-Tuned Large Language Models with Reverse Prompt Contrastive Decoding
+8. Weak-to-Strong Jailbreaking on Large Language Models
 ## Acknowledgments
 
 I am immensely grateful to two pivotal projects that have significantly influenced the development of my work: [awesome-Large-MultiModal-Hallucination](https://github.com/xieyuquanxx/awesome-Large-MultiModal-Hallucination) and [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination). The dedication and effort put forth by the contributors of these projects, particularly [xieyuquanxx](https://github.com/xieyuquanxx) and the team at Show Lab, have provided an indispensable resource for researchers and developers alike.
