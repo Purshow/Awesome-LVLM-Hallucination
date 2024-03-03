@@ -101,6 +101,8 @@
     - [![Static Badge](https://img.shields.io/badge/2402.11411-red?logo=arxiv)](https://arxiv.org/abs/2402.11411)
 25. **MOF**：Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs
     - [![Static Badge](https://img.shields.io/badge/2401.06209-red?logo=arxiv)](https://arxiv.org/abs/2401.06209)
+26. **SEEING IS BELIEVING**：SEEING IS BELIEVING: MITIGATING HALLUCINATION IN LARGE VISION-LANGUAGE MODELS VIA CLIP-GUIDED DECODING
+    - [![Static Badge](https://img.shields.io/badge/2402.15300-red?logo=arxiv)](https://arxiv.org/abs/2402.15300)
 
 # 他山之玉：
 ## survey（LLM's hallucination）:
