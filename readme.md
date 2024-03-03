@@ -101,6 +101,8 @@
     - [![Static Badge](https://img.shields.io/badge/2402.11411-red?logo=arxiv)](https://arxiv.org/abs/2402.11411)
 25. **MOF**：Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs
     - [![Static Badge](https://img.shields.io/badge/2401.06209-red?logo=arxiv)](https://arxiv.org/abs/2401.06209)
+26. **IBD**: IBD: Alleviating Hallucinations in Large Vision-Language Models viaImage-Biased Decoding
+    - [![Static Badge](https://img.shields.io/badge/2402.18476-red?logo=arxiv)](https://arxiv.org/abs/2402.18476)
 
 # 他山之玉：
 ## survey（LLM's hallucination）:
@@ -119,7 +121,7 @@
 6. Discerning and Resolving Knowledge Conflicts through Adaptive Decoding with Contextual Information-Entropy Constraint
 7. ROSE Doesn’t Do That: Boosting the Safety of Instruction-Tuned Large Language Models with Reverse Prompt Contrastive Decoding
 8. Weak-to-Strong Jailbreaking on Large Language Models
-
+9. IBD: Alleviating Hallucinations in Large Vision-Language Models viaImage-Biased Decoding
 ## Acknowledgments
 I am immensely grateful to two pivotal projects that have significantly influenced the development of my work: [awesome-Large-MultiModal-Hallucination](https://github.com/xieyuquanxx/awesome-Large-MultiModal-Hallucination) and [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination). The dedication and effort put forth by the contributors of these projects, particularly [xieyuquanxx](https://github.com/xieyuquanxx) and the team at Show Lab, have provided an indispensable resource for researchers and developers alike.
 The awesome-Large-MultiModal-Hallucination project has offered a comprehensive guide and a curated list of resources that have been instrumental in shaping my understanding of Large MultiModal Hallucination. Similarly, the Awesome-MLLM-Hallucination repository has been a treasure trove of knowledge, showcasing cutting-edge techniques and methodologies in the realm of Machine Learning and Large Model Hallucination.
