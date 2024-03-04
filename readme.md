@@ -109,7 +109,8 @@
     - [![Static Badge](https://img.shields.io/badge/2402.18476-red?logo=arxiv)](https://arxiv.org/abs/2402.18476)
 27. **DualFocus**:DualFocus: Integrating Macro and Micro Perspectives in Multi-modal Large Language Models
     - [![Static Badge](https://img.shields.io/badge/2402.14767-red?logo=arxiv)](https://arxiv.org/abs/2402.14767)
-
+28. **HALC**：HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding
+    - [![Static Badge](https://img.shields.io/badge/2403.00425-red?logo=arxiv)](https://arxiv.org/abs/2403.00425)
 # 他山之玉：
 ## survey（LLM's hallucination）:
 - Song in the AI Ocean:A Survey on Hallucination in Large Language Models https://github.com/HillZhang1999/llm-hallucination-survey
@@ -132,6 +133,7 @@
 7. ROSE Doesn’t Do That: Boosting the Safety of Instruction-Tuned Large Language Models with Reverse Prompt Contrastive Decoding
 8. Weak-to-Strong Jailbreaking on Large Language Models
 9. IBD: Alleviating Hallucinations in Large Vision-Language Models viaImage-Biased Decoding
+10. HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding
 ## Acknowledgments
 I am immensely grateful to two pivotal projects that have significantly influenced the development of my work: [awesome-Large-MultiModal-Hallucination](https://github.com/xieyuquanxx/awesome-Large-MultiModal-Hallucination) and [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination). The dedication and effort put forth by the contributors of these projects, particularly [xieyuquanxx](https://github.com/xieyuquanxx) and the team at Show Lab, have provided an indispensable resource for researchers and developers alike.
 The awesome-Large-MultiModal-Hallucination project has offered a comprehensive guide and a curated list of resources that have been instrumental in shaping my understanding of Large MultiModal Hallucination. Similarly, the Awesome-MLLM-Hallucination repository has been a treasure trove of knowledge, showcasing cutting-edge techniques and methodologies in the realm of Machine Learning and Large Model Hallucination.
