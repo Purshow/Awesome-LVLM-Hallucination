@@ -118,7 +118,11 @@
 - A Survey of Hallucination in “Large” Foundation Models
 
 ## Interesting topic: 
-### Contrastive decoding： (vcd同款方法)
+### 解码层面：
+#### ItI：Inference-Time Intervention:Eliciting Truthful Answers from a Language Model
+#### CDS： Collaborative decoding of critical tokens for boosting factuality of large language models
+#### Self-Consistent Decoding for More Factual Open Responses
+#### Contrastive decoding： (vcd同款方法)
 1. Hallucinations of Large Language Models through Induced Halluctions
 2. Contrastive Decoding: Open-ended Text Generation as Optimization 
 3. Trusting Your Evidence: Hallucinate Less with Context-aware Decoding
