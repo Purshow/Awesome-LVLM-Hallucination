@@ -39,8 +39,8 @@
 
 + **VHtest**[Visual Hallucinations of Multi-modal Large Language Models](https://arxiv.org/abs/2402.14683)
     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14683)
-
-
++ **Hal-Eval**[Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models](https://arxiv.org/abs/2402.15721)
+    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15721)
 ### Mitigating（LVLM）
 
 1. **LRV-Instruction**: Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning, (Liu et al. ICLR2024)
@@ -107,6 +107,8 @@
     - [![Static Badge](https://img.shields.io/badge/2401.06209-red?logo=arxiv)](https://arxiv.org/abs/2401.06209)
 26. **IBD**: IBD: Alleviating Hallucinations in Large Vision-Language Models viaImage-Biased Decoding
     - [![Static Badge](https://img.shields.io/badge/2402.18476-red?logo=arxiv)](https://arxiv.org/abs/2402.18476)
+27. **DualFocus**:DualFocus: Integrating Macro and Micro Perspectives in Multi-modal Large Language Models
+    - [![Static Badge](https://img.shields.io/badge/2402.14767-red?logo=arxiv)](https://arxiv.org/abs/2402.14767)
 
 # 他山之玉：
 ## survey（LLM's hallucination）:
