@@ -37,6 +37,10 @@
 + **CHAIR** [Object Hallucination in Image Captioning](https://arxiv.org/abs/1809.02156) (EMNLP 2018)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1809.02156)
 
++ **VHtest**[Visual Hallucinations of Multi-modal Large Language Models](https://arxiv.org/abs/2402.14683)
+    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14683)
+
+
 ### Mitigating（LVLM）
 
 1. **LRV-Instruction**: Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning, (Liu et al. ICLR2024)
@@ -99,7 +103,7 @@
     - [![Static Badge](https://img.shields.io/badge/2402.11622-red?logo=arxiv)](https://arxiv.org/abs/2402.11622)
 23. Aligning Modalities in Vision Large Language Models via Preference Fine-tuning
     - [![Static Badge](https://img.shields.io/badge/2402.11411-red?logo=arxiv)](https://arxiv.org/abs/2402.11411)
-25. **MOF**：Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs
+25. **MOF**：Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs **三幻神之作，强烈推荐！！！**（这篇paper“养”活了后面的几篇paper.....）
     - [![Static Badge](https://img.shields.io/badge/2401.06209-red?logo=arxiv)](https://arxiv.org/abs/2401.06209)
 26. **IBD**: IBD: Alleviating Hallucinations in Large Vision-Language Models viaImage-Biased Decoding
     - [![Static Badge](https://img.shields.io/badge/2402.18476-red?logo=arxiv)](https://arxiv.org/abs/2402.18476)
