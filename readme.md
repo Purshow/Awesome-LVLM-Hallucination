@@ -103,7 +103,7 @@
     - [![Static Badge](https://img.shields.io/badge/2402.11622-red?logo=arxiv)](https://arxiv.org/abs/2402.11622)
 23. Aligning Modalities in Vision Large Language Models via Preference Fine-tuning
     - [![Static Badge](https://img.shields.io/badge/2402.11411-red?logo=arxiv)](https://arxiv.org/abs/2402.11411)
-25. **MOF**：Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs **三幻神之作，强烈推荐！！！**（这篇paper“养”活了后面的几篇paper.....）
+25. **MOF**：Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs **三幻神之作，强烈推荐！！！**（这篇paper“养”活了好几篇paper.....）
     - [![Static Badge](https://img.shields.io/badge/2401.06209-red?logo=arxiv)](https://arxiv.org/abs/2401.06209)
 26. **IBD**: IBD: Alleviating Hallucinations in Large Vision-Language Models viaImage-Biased Decoding
     - [![Static Badge](https://img.shields.io/badge/2402.18476-red?logo=arxiv)](https://arxiv.org/abs/2402.18476)
@@ -111,6 +111,8 @@
     - [![Static Badge](https://img.shields.io/badge/2402.14767-red?logo=arxiv)](https://arxiv.org/abs/2402.14767)
 28. **HALC**：HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding
     - [![Static Badge](https://img.shields.io/badge/2403.00425-red?logo=arxiv)](https://arxiv.org/abs/2403.00425)
+29. **less is more**:Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective 
+    - [![Static Badge](https://img.shields.io/badge/2402.14545-red?logo=arxiv)](https://arxiv.org/abs/2402.14545)
 # 他山之玉：
 ## survey（LLM's hallucination）:
 - Song in the AI Ocean:A Survey on Hallucination in Large Language Models https://github.com/HillZhang1999/llm-hallucination-survey
