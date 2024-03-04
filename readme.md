@@ -126,8 +126,8 @@
 #### CDS： Collaborative decoding of critical tokens for boosting factuality of large language models
 #### Self-Consistent Decoding for More Factual Open Responses
 #### Contrastive decoding： (vcd同款方法)
-1. Hallucinations of Large Language Models through Induced Halluctions
-2. Contrastive Decoding: Open-ended Text Generation as Optimization 
+1.  Contrastive Decoding: Open-ended Text Generation as Optimization Alleviating 
+2.  Alleviating Hallucinations of Large Language Models through Induced Halluctions
 3. Trusting Your Evidence: Hallucinate Less with Context-aware Decoding
 4. SH2: Self-Highlighted Hesitation Helps You Decode More Truthfully
 5. DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models
