@@ -1,5 +1,6 @@
 # Awesome LVLM Hallucination
-
+All the papers listed in this project come from my usual reading.
+If you have found some new and interesting papers, I would appreciate it if you let me know!！！
 ### A nice survey:[A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)
 
 ### Hallucination Benchmarks:
