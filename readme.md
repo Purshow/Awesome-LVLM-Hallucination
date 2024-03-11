@@ -116,7 +116,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
     - [![Static Badge](https://img.shields.io/badge/2402.14545-red?logo=arxiv)](https://arxiv.org/abs/2402.14545)
 30. **Number Hallucinations**：Evaluating and Mitigating Number Hallucinations in Large Vision-Language Models: A Consistency Perspective
     - [![Static Badge](https://img.shields.io/badge/2403.01373-red?logo=arxiv)](https://arxiv.org/abs/2403.01373)
-
+31. Debiasing Large Visual Language Models
+    - [![Static Badge](https://img.shields.io/badge/2403.05262-red?logo=arxiv)](https://arxiv.org/abs/2403.05262)跟我想到的方法一模一样.....purshow最小丑的一集.....
 
 # 他山之玉：
 ## survey（LLM's hallucination）:
