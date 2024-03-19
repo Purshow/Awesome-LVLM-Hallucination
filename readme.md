@@ -42,6 +42,9 @@ If you have found some new and interesting papers, I would appreciate it if you 
     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14683)
 + **Hal-Eval**[Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models](https://arxiv.org/abs/2402.15721)
     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15721)
++ **PhD**[PhD: A Prompted Visual Hallucination Evaluation Dataset](https://arxiv.org/abs/2403.11116)
+    [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.11116)
+
 ### Mitigating（LVLM）
 
 1. **LRV-Instruction**: Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning, (Liu et al. ICLR2024)
