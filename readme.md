@@ -125,6 +125,12 @@ If you have found some new and interesting papers, I would appreciate it if you 
     - [![Static Badge](https://img.shields.io/badge/2403.05262-red?logo=arxiv)](https://arxiv.org/abs/2403.05262)跟我想到的方法一模一样.....purshow最小丑的一集.....
 32. **The First to Know**: The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?
     - [![Static Badge](https://img.shields.io/badge/2403.09037-red?logo=arxiv)](https://arxiv.org/abs/2403.09037)
+33.Mitigating Dialogue Hallucination for Large Multi-modal Models via Adversarial Instruction Tuning
+    - [![Static Badge](https://img.shields.io/badge/2403.10492-red?logo=arxiv)](https://arxiv.org/abs/2403.10492)
+34. **Pensieve**:Pensieve: Retrospect-then-Compare Mitigates Visual Hallucination
+    - [![Static Badge](https://img.shields.io/badge/2403.14401-red?logo=arxiv)](https://arxiv.org/abs/2403.14401)
+35.Multi-Modal Hallucination Control by Visual Information Grounding
+    - [![Static Badge](https://img.shields.io/badge/2403.14003-red?logo=arxiv)](https://arxiv.org/abs/2403.14003)
 
 # 他山之玉：
 ## survey（LLM's hallucination）:
