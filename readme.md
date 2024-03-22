@@ -131,6 +131,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
     - [![Static Badge](https://img.shields.io/badge/2403.14401-red?logo=arxiv)](https://arxiv.org/abs/2403.14401)
 35.Multi-Modal Hallucination Control by Visual Information Grounding
     - [![Static Badge](https://img.shields.io/badge/2403.14003-red?logo=arxiv)](https://arxiv.org/abs/2403.14003)
+36. **What if...?**:What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models
+    - [![Static Badge](https://img.shields.io/badge/2403.13513-red?logo=arxiv)](https://arxiv.org/abs/2403.13513)
 
 # 他山之玉：
 ## survey（LLM's hallucination）:
