@@ -133,6 +133,11 @@ If you have found some new and interesting papers, I would appreciate it if you 
     - [![Static Badge](https://img.shields.io/badge/2403.14003-red?logo=arxiv)](https://arxiv.org/abs/2403.14003)
 36. **What if...?**:What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models
     - [![Static Badge](https://img.shields.io/badge/2403.13513-red?logo=arxiv)](https://arxiv.org/abs/2403.13513)
+37. Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models
+    - [![Static Badge](https://img.shields.io/badge/2403.16167-red?logo=arxiv)](https://arxiv.org/abs/2403.16167)
+38.Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding
+    - [![Static Badge](https://img.shields.io/badge/2403.18715-red?logo=arxiv)](https://arxiv.org/abs/2403.18715)
+
 
 # 他山之玉：
 ## survey（LLM's hallucination）:
