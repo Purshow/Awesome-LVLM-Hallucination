@@ -137,6 +137,9 @@ If you have found some new and interesting papers, I would appreciate it if you 
     - [![Static Badge](https://img.shields.io/badge/2403.16167-red?logo=arxiv)](https://arxiv.org/abs/2403.16167)
 38.Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding
     - [![Static Badge](https://img.shields.io/badge/2403.18715-red?logo=arxiv)](https://arxiv.org/abs/2403.18715)
+39.**H2RSVLM**:H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model
+    - [![Static Badge](https://img.shields.io/badge/2403.18715-red?logo=arxiv)](https://arxiv.org/abs/2403.18715)
+
 
 
 # 他山之玉：
