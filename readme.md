@@ -107,43 +107,43 @@ If you have found some new and interesting papers, I would appreciate it if you 
     - [![Static Badge](https://img.shields.io/badge/2311.15300-red?logo=arxiv)](https://arxiv.org/abs/2402.15300)
 22. **Logical Closed Loop**： Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models
     - [![Static Badge](https://img.shields.io/badge/2402.11622-red?logo=arxiv)](https://arxiv.org/abs/2402.11622)
-23. Aligning Modalities in Vision Large Language Models via Preference Fine-tuning
+23.  Aligning Modalities in Vision Large Language Models via Preference Fine-tuning
     - [![Static Badge](https://img.shields.io/badge/2402.11411-red?logo=arxiv)](https://arxiv.org/abs/2402.11411)
-25. **MOF**：Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs **三幻神之作，强烈推荐！！！**（这篇paper“养”活了好几篇paper.....）
+24. **MOF**：Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs **三幻神之作，强烈推荐！！！**（这篇paper“养”活了好几篇paper.....）
     - [![Static Badge](https://img.shields.io/badge/2401.06209-red?logo=arxiv)](https://arxiv.org/abs/2401.06209)
-26. **IBD**: IBD: Alleviating Hallucinations in Large Vision-Language Models viaImage-Biased Decoding
+25. **IBD**: IBD: Alleviating Hallucinations in Large Vision-Language Models viaImage-Biased Decoding
     - [![Static Badge](https://img.shields.io/badge/2402.18476-red?logo=arxiv)](https://arxiv.org/abs/2402.18476)
-27. **DualFocus**:DualFocus: Integrating Macro and Micro Perspectives in Multi-modal Large Language Models
+26. **DualFocus**:DualFocus: Integrating Macro and Micro Perspectives in Multi-modal Large Language Models
     - [![Static Badge](https://img.shields.io/badge/2402.14767-red?logo=arxiv)](https://arxiv.org/abs/2402.14767)
-28. **HALC**：HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding
+27. **HALC**：HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding
     - [![Static Badge](https://img.shields.io/badge/2403.00425-red?logo=arxiv)](https://arxiv.org/abs/2403.00425)
-29. **less is more**:Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective 
+28. **less is more**:Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective 
     - [![Static Badge](https://img.shields.io/badge/2402.14545-red?logo=arxiv)](https://arxiv.org/abs/2402.14545)
-30. **Number Hallucinations**：Evaluating and Mitigating Number Hallucinations in Large Vision-Language Models: A Consistency Perspective
+29. **Number Hallucinations**：Evaluating and Mitigating Number Hallucinations in Large Vision-Language Models: A Consistency Perspective
     - [![Static Badge](https://img.shields.io/badge/2403.01373-red?logo=arxiv)](https://arxiv.org/abs/2403.01373)
-31. Debiasing Large Visual Language Models
-    - [![Static Badge](https://img.shields.io/badge/2403.05262-red?logo=arxiv)](https://arxiv.org/abs/2403.05262)跟我想到的方法一模一样.....purshow最小丑的一集.....
-32. **The First to Know**: The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?
+30-. Debiasing Large Visual Language Models
+    [![Static Badge](https://img.shields.io/badge/2403.05262-red?logo=arxiv)](https://arxiv.org/abs/2403.05262)跟我想到的方法一模一样.....purshow最小丑的一集.....
+31. **The First to Know**: The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?
     - [![Static Badge](https://img.shields.io/badge/2403.09037-red?logo=arxiv)](https://arxiv.org/abs/2403.09037)
-33.Mitigating Dialogue Hallucination for Large Multi-modal Models via Adversarial Instruction Tuning
+32. Mitigating Dialogue Hallucination for Large Multi-modal Models via Adversarial Instruction Tuning
     - [![Static Badge](https://img.shields.io/badge/2403.10492-red?logo=arxiv)](https://arxiv.org/abs/2403.10492)
-34. **Pensieve**:Pensieve: Retrospect-then-Compare Mitigates Visual Hallucination
+33. **Pensieve**:Pensieve: Retrospect-then-Compare Mitigates Visual Hallucination
     - [![Static Badge](https://img.shields.io/badge/2403.14401-red?logo=arxiv)](https://arxiv.org/abs/2403.14401)
-35.Multi-Modal Hallucination Control by Visual Information Grounding
+34. Multi-Modal Hallucination Control by Visual Information Grounding
     - [![Static Badge](https://img.shields.io/badge/2403.14003-red?logo=arxiv)](https://arxiv.org/abs/2403.14003)
-36. **What if...?**:What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models
+35. **What if...?**:What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models
     - [![Static Badge](https://img.shields.io/badge/2403.13513-red?logo=arxiv)](https://arxiv.org/abs/2403.13513)
-37. Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models
+36. Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models
     - [![Static Badge](https://img.shields.io/badge/2403.16167-red?logo=arxiv)](https://arxiv.org/abs/2403.16167)
-38. Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding
+37.  Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding
     - [![Static Badge](https://img.shields.io/badge/2403.18715-red?logo=arxiv)](https://arxiv.org/abs/2403.18715)
-39. **H2RSVLM**:H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model
+38. **H2RSVLM**:H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model
     - [![Static Badge](https://img.shields.io/badge/2403.18715-red?logo=arxiv)](https://arxiv.org/abs/2403.18715)
-40. **FGAIF**:FGAIF: Aligning Large Vision-Language Models with Fine-grained AI Feedback
+39. **FGAIF**:FGAIF: Aligning Large Vision-Language Models with Fine-grained AI Feedback
     - [![Static Badge](https://img.shields.io/badge/2404.05046-red?logo=arxiv)](https://arxiv.org/abs/2404.05046)
-41. Joint Visual and Text Prompting for Improved Object-Centric Perception with Multimodal Large Language Models
+40. Joint Visual and Text Prompting for Improved Object-Centric Perception with Multimodal Large Language Models
     - [![Static Badge](https://img.shields.io/badge/2404.04514-red?logo=arxiv)](https://arxiv.org/abs/2404.04514)
-42. **BRAVE**:BRAVE: Broadening the visual encoding of vision-language models
+41.  **BRAVE**:BRAVE: Broadening the visual encoding of vision-language models
     - [![Static Badge](https://img.shields.io/badge/2404.07204-red?logo=arxiv)](https://arxiv.org/abs/2404.07204)
 
 # 他山之玉：
