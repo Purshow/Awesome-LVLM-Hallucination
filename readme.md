@@ -135,15 +135,15 @@ If you have found some new and interesting papers, I would appreciate it if you 
     - [![Static Badge](https://img.shields.io/badge/2403.13513-red?logo=arxiv)](https://arxiv.org/abs/2403.13513)
 37. Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models
     - [![Static Badge](https://img.shields.io/badge/2403.16167-red?logo=arxiv)](https://arxiv.org/abs/2403.16167)
-38.Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding
+38. Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding
     - [![Static Badge](https://img.shields.io/badge/2403.18715-red?logo=arxiv)](https://arxiv.org/abs/2403.18715)
-39.**H2RSVLM**:H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model
+39. **H2RSVLM**:H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model
     - [![Static Badge](https://img.shields.io/badge/2403.18715-red?logo=arxiv)](https://arxiv.org/abs/2403.18715)
-40.**FGAIF**:FGAIF: Aligning Large Vision-Language Models with Fine-grained AI Feedback
+40. **FGAIF**:FGAIF: Aligning Large Vision-Language Models with Fine-grained AI Feedback
     - [![Static Badge](https://img.shields.io/badge/2404.05046-red?logo=arxiv)](https://arxiv.org/abs/2404.05046)
-41.Joint Visual and Text Prompting for Improved Object-Centric Perception with Multimodal Large Language Models
+41. Joint Visual and Text Prompting for Improved Object-Centric Perception with Multimodal Large Language Models
     - [![Static Badge](https://img.shields.io/badge/2404.04514-red?logo=arxiv)](https://arxiv.org/abs/2404.04514)
-42.**BRAVE**:BRAVE: Broadening the visual encoding of vision-language models
+42. **BRAVE**:BRAVE: Broadening the visual encoding of vision-language models
     - [![Static Badge](https://img.shields.io/badge/2404.07204-red?logo=arxiv)](https://arxiv.org/abs/2404.07204)
 
 # 他山之玉：
