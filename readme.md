@@ -145,6 +145,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
     - [![Static Badge](https://img.shields.io/badge/2404.04514-red?logo=arxiv)](https://arxiv.org/abs/2404.04514)
 41.  **BRAVE**:BRAVE: Broadening the visual encoding of vision-language models
     - [![Static Badge](https://img.shields.io/badge/2404.07204-red?logo=arxiv)](https://arxiv.org/abs/2404.07204)
+42. Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs
+    - [![Static Badge](https://img.shields.io/badge/2404.07449-red?logo=arxiv)](https://arxiv.org/abs/2404.07449)
 
 # 他山之玉：
 ## survey（LLM's hallucination）:
