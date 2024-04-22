@@ -147,6 +147,18 @@ If you have found some new and interesting papers, I would appreciate it if you 
     - [![Static Badge](https://img.shields.io/badge/2404.07204-red?logo=arxiv)](https://arxiv.org/abs/2404.07204)
 42. Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs
     - [![Static Badge](https://img.shields.io/badge/2404.07449-red?logo=arxiv)](https://arxiv.org/abs/2404.07449)
+43. **LION**:LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge
+    - [![Static Badge](https://img.shields.io/badge/2311.11860-red?logo=arxiv)](https://arxiv.org/abs/2311.11860)
+44. **Prescribing the Right Remedy**: Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning
+    - [![Static Badge](https://img.shields.io/badge/2404.10332-red?logo=arxiv)](https://arxiv.org/abs/2404.10332)
+45. **Fact**:Fact :Teaching MLLMs with Faithful, Concise and Transferable Rationales
+    - [![Static Badge](https://img.shields.io/badge/2404.11129-red?logo=arxiv)](https://arxiv.org/abs/2404.11129)
+46. Self-Supervised Visual Preference Alignment
+    - [![Static Badge](https://img.shields.io/badge/2404.10501-red?logo=arxiv)](https://arxiv.org/abs/2404.10501)
+47. Exploring the Transferability of Visual Prompting for Multimodal Large Language Models
+    - [![Static Badge](https://img.shields.io/badge/2404.11207-red?logo=arxiv)](https://arxiv.org/abs/2404.11207)
+
+
 
 # 他山之玉：
 ## survey（LLM's hallucination）:
