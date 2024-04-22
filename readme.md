@@ -160,7 +160,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
 
 
 
-# 他山之玉：
+# 他山之石：
 ## survey（LLM's hallucination）:
 - Song in the AI Ocean:A Survey on Hallucination in Large Language Models https://github.com/HillZhang1999/llm-hallucination-survey
 - A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions 
