@@ -1,7 +1,9 @@
 # Awesome LVLM Hallucination
 All the papers listed in this project come from my usual reading.
 If you have found some new and interesting papers, I would appreciate it if you let me know!!!
-### A nice survey:[A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)
+### survey:
+[A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)
+[Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2404.18930)
 
 ### Hallucination Benchmarks:
 
@@ -157,6 +159,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
     - [![Static Badge](https://img.shields.io/badge/2404.10501-red?logo=arxiv)](https://arxiv.org/abs/2404.10501)
 47. Exploring the Transferability of Visual Prompting for Multimodal Large Language Models
     - [![Static Badge](https://img.shields.io/badge/2404.11207-red?logo=arxiv)](https://arxiv.org/abs/2404.11207)
+48. **VALOR-EVAL**: VALOR-EVAL: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models
+    - [![Static Badge](https://img.shields.io/badge/2404.13874-red?logo=arxiv)](https://arxiv.org/abs/2404.13874)
 
 
 
