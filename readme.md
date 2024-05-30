@@ -1,6 +1,7 @@
 # Awesome LVLM Hallucination
 All the papers listed in this project come from my usual reading.
 If you have found some new and interesting papers, I would appreciate it if you let me know!!!
+
 ### survey:
 [A Survey on Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2402.00253)
 
@@ -49,6 +50,9 @@ If you have found some new and interesting papers, I would appreciate it if you 
     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15721)
 + **PhD**[PhD: A Prompted Visual Hallucination Evaluation Dataset](https://arxiv.org/abs/2403.11116)**Highly recommended**
     [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.11116)
+  
++ **THRONE** THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models
++ **MetaToken** MetaToken: Detecting Hallucination in Image Descriptions by Meta Classification
 
 ### Mitigating（LVLM）
 
@@ -162,6 +166,26 @@ If you have found some new and interesting papers, I would appreciate it if you 
     - [![Static Badge](https://img.shields.io/badge/2404.11207-red?logo=arxiv)](https://arxiv.org/abs/2404.11207)
 48. **VALOR-EVAL**: VALOR-EVAL: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models
     - [![Static Badge](https://img.shields.io/badge/2404.13874-red?logo=arxiv)](https://arxiv.org/abs/2404.13874)
+49. **RITUAL**: Random Image Transformations as a Universal Anti-hallucination Lever in LVLMs
+    - [![Static Badge](https://img.shields.io/badge/2405.17821-red?logo=arxiv)](https://arxiv.org/abs/2405.17821)
+50. Mitigating Object Hallucination via Data Augmented Contrastive Tuning *
+    - [![Static Badge](https://img.shields.io/badge/2405.18654-red?logo=arxiv)](https://arxiv.org/abs/2405.18654)
+51. Detecting Multimodal Situations with Insufficient Context and Abstaining from Baseless Predictions *
+    - [![Static Badge](https://img.shields.io/badge/2405.11145-red?logo=arxiv)](https://arxiv.org/abs/2405.11145)
+52. Automated Multi-level Preference for MLLMs
+    - [![Static Badge](https://img.shields.io/badge/2405.11165-red?logo=arxiv)](https://arxiv.org/abs/2405.11165)
+53.  Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization 
+    - [![Static Badge](https://img.shields.io/badge/2405.15356-red?logo=arxiv)](https://arxiv.org/abs/2405.15356)
+54.  **VDGD** VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap *
+    - [![Static Badge](https://img.shields.io/badge/2405.15356-red?logo=arxiv)](https://arxiv.org/abs/2405.15356)
+55. Think Before You Act: A Two-Stage Framework for Mitigating Gender Bias Towards Vision-Language Tasks
+    - [![Static Badge](https://img.shields.io/badge/2405.16860-red?logo=arxiv)](https://arxiv.org/abs/2405.16860)
+56. **Don't Miss the Forest for the Trees** Don't Miss the Forest for the Trees: Attentional Vision Calibration for Large Vision Language Models
+    - [![Static Badge](https://img.shields.io/badge/2405.17820-red?logo=arxiv)](https://arxiv.org/abs/2405.17820)
+57. Calibrated Self-Rewarding Vision Language Models *
+    - [![Static Badge](https://img.shields.io/badge/2405.14622-red?logo=arxiv)](https://arxiv.org/abs/2405.14622)
+
+
 
 
 
@@ -177,7 +201,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
 #### ItI：Inference-Time Intervention:Eliciting Truthful Answers from a Language Model
 #### CDS： Collaborative decoding of critical tokens for boosting factuality of large language models
 #### Self-Consistent Decoding for More Factual Open Responses
-#### Contrastive decoding： (vcd同款方法)
+#### Contrastive decoding： (vcd同款方法) I really think there are too many papers in this method....
 1.  Contrastive Decoding: Open-ended Text Generation as Optimization Alleviating 
 2.  Alleviating Hallucinations of Large Language Models through Induced Halluctions
 3. Trusting Your Evidence: Hallucinate Less with Context-aware Decoding
@@ -188,6 +212,7 @@ If you have found some new and interesting papers, I would appreciate it if you 
 8. Weak-to-Strong Jailbreaking on Large Language Models
 9. IBD: Alleviating Hallucinations in Large Vision-Language Models viaImage-Biased Decoding
 10. HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding
+11. ......
 ## Acknowledgments
 I am immensely grateful to two pivotal projects that have significantly influenced the development of my work: [awesome-Large-MultiModal-Hallucination](https://github.com/xieyuquanxx/awesome-Large-MultiModal-Hallucination) and [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination). The dedication and effort put forth by the contributors of these projects, particularly [xieyuquanxx](https://github.com/xieyuquanxx) and the team at Show Lab, have provided an indispensable resource for researchers and developers alike.
 The awesome-Large-MultiModal-Hallucination project has offered a comprehensive guide and a curated list of resources that have been instrumental in shaping my understanding of Large MultiModal Hallucination. Similarly, the Awesome-MLLM-Hallucination repository has been a treasure trove of knowledge, showcasing cutting-edge techniques and methodologies in the realm of Machine Learning and Large Model Hallucination.
