@@ -188,6 +188,8 @@ If you have found some new and interesting papers, I would appreciate it if you 
     - [![Static Badge](https://img.shields.io/badge/2405.17820-red?logo=arxiv)](https://arxiv.org/abs/2405.17820)
 57. Calibrated Self-Rewarding Vision Language Models *
     - [![Static Badge](https://img.shields.io/badge/2405.14622-red?logo=arxiv)](https://arxiv.org/abs/2405.14622)
+58. VL-Uncertainty: Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation
+    - [![Static Badge](https://img.shields.io/badge/2411.11919-red?logo=arxiv)](https://arxiv.org/abs/2411.11919)
 
 
 
